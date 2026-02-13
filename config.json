@@ -1,0 +1,11 @@
+{
+    "target_path": "C:/Users/dell/Downloads",
+    "rules": {
+        "image": "Images",
+        "video": "Videos",
+        "audio": "Audio",
+        "document": "Documents",
+        "archive": "Archives",
+        "program": "Programs"
+    }
+}
